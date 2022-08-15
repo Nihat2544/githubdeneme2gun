@@ -4,11 +4,11 @@ public class Day2GitGithub {
     klasorumuzun icindeki dosyalari iliskilendirmek icin kullanilir
     2- git add. --> workingi space'den (yeni yerel) dosyalarimi
     stagingi area'ya commitlemek icin beklenen yer gonderir
-    3- git status -->
-    3- git commit -m"mesaj"--> staging area'dan commit stora
+    3- git status --> working space'deki ve staging area'daki durumu gosterir
+    4- git commit -m"mesaj"--> staging area'dan commit stora
     dosyalarimi gondermek icin kullanilir.
     (commit yani version yani surum olusturmus olurum)
-    4- git push --> uzak repoy'ya (yani remote - Github) gondermek
+    5- git push --> uzak repoy'ya (yani remote - Github) gondermek
     icin kullandigimiz kod. Yalniz git push komutunu
     kullanmak istersek 1 kez
          git remote add origin adress
@@ -17,4 +17,7 @@ public class Day2GitGithub {
     diger ikinci commit'lerim icin bir sadece git push kullaniriz.
 
      */
+    public static void main(String[] args) {
+        System.out.println("Github'i de ogrendim");
+    }
 }
