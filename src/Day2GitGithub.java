@@ -17,7 +17,5 @@ public class Day2GitGithub {
     diger ikinci commit'lerim icin bir sadece git push kullaniriz.
 
      */
-    public static void main(String[] args) {
-        System.out.println("Github'i de ogrendim");
-    }
+
 }
