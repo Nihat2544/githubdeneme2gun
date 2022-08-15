@@ -17,5 +17,8 @@ public class Day2GitGithub {
     diger ikinci commit'lerim icin bir sadece git push kullanirizz
 
      */
+    public static void main(String[] args) {
+        System.out.println("Branch deneme 1");
+    }
 
 }
